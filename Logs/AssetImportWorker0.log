@@ -1,0 +1,269 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'en' Physical Memory: 15789 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/alroc/Documents/touhou-game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50847
+Successfully changed project path to: C:/Users/alroc/Documents/touhou-game
+C:/Users/alroc/Documents/touhou-game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 71.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/alroc/Documents/touhou-game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 with Max-Q Design (ID=0x1f12)
+    Vendor:   
+    VRAM:     5968 MB
+    Driver:   31.0.15.2849
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001630 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 75.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.530 seconds
+Domain Reload Profiling:
+	ReloadAssembly (530ms)
+		BeginReloadAssembly (50ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (418ms)
+			LoadAssemblies (48ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (122ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (180ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (76ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (69ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004326 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\alroc\Documents\touhou-game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\alroc\Documents\touhou-game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.912 seconds
+Domain Reload Profiling:
+	ReloadAssembly (913ms)
+		BeginReloadAssembly (125ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (738ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (270ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (275ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (191ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.6 MB.
+System memory in use after: 126.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3652.
+Total: 2.956600 ms (FindLiveObjects: 0.248400 ms CreateObjectMapping: 0.079700 ms MarkObjects: 2.549500 ms  DeleteObjects: 0.077500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/knife_red.png
+  artifactKey: Guid(7203dcb9e449d864db086d8ed15bb1d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/knife_red.png using Guid(7203dcb9e449d864db086d8ed15bb1d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d534e2ce5a3f9febfef86de943037ce') in 0.123413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/ammo_red - Copy.png
+  artifactKey: Guid(565a7d258b7710144bf4973432a4aa17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/ammo_red - Copy.png using Guid(565a7d258b7710144bf4973432a4aa17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68606e514633ceac99927156bce2b2ef') in 0.019343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/grenade_red.png
+  artifactKey: Guid(e568be018e22f84469331cdac9abc449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/grenade_red.png using Guid(e568be018e22f84469331cdac9abc449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a9457b28e80aed5dcf80b3d8444b44') in 0.015759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/gun_red.png
+  artifactKey: Guid(2acb355f572e6b54fba005b011635023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/gun_red.png using Guid(2acb355f572e6b54fba005b011635023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49cdbd5c8d1e69e9b5cdab087eb84043') in 0.020514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/ammo_Bomb.png
+  artifactKey: Guid(7ca4864641120f94eaa9e2c9c5d8772e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/ammo_Bomb.png using Guid(7ca4864641120f94eaa9e2c9c5d8772e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78239c1c07c9082c2ea6ffaac5de2ed4') in 0.015285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/laser_red.png
+  artifactKey: Guid(c2c5f0aac4d694b49a807f61f15baa85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/laser_red.png using Guid(c2c5f0aac4d694b49a807f61f15baa85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd49d84464f07471053a5bfb05b5269') in 0.021969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/ammo_iso_red.png
+  artifactKey: Guid(bbbbba1b9b4620140b1b0efb4da8bcd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/ammo_iso_red.png using Guid(bbbbba1b9b4620140b1b0efb4da8bcd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1857e48010dac0960610c8411c36743f') in 0.021817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/flamethrower_red.png
+  artifactKey: Guid(c2fcf69ab9813504c973c921dc85789e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/flamethrower_red.png using Guid(c2fcf69ab9813504c973c921dc85789e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd5ff0ccbc8b8caeaad7b6e32a64a42') in 0.023466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/armor_red - Copy.png
+  artifactKey: Guid(8c7cd6caa3ab01647b41bc207e976a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/armor_red - Copy.png using Guid(8c7cd6caa3ab01647b41bc207e976a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bfe97a3b60283faf52890a3387ba4db') in 0.014892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/armor_iso_red.png
+  artifactKey: Guid(10b6458ce9990ee40875f6ad1c825d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/armor_iso_red.png using Guid(10b6458ce9990ee40875f6ad1c825d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e323f1f1bba249aeb46e71e19ff4fa') in 0.021217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/kit_red.png
+  artifactKey: Guid(035e8399e8eb7c04ebca64bf8b4ef114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/kit_red.png using Guid(035e8399e8eb7c04ebca64bf8b4ef114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7904f9e8595052017933c331eb19eb') in 0.020304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/2D_sci-fi_weapon/Sprites/red/blaster_red.png
+  artifactKey: Guid(fdd2c921c62d2cd43b815fa60199d5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D_sci-fi_weapon/Sprites/red/blaster_red.png using Guid(fdd2c921c62d2cd43b815fa60199d5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27c3bb879d468178152485633d8ede9b') in 0.019355 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004148 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\alroc\Documents\touhou-game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\alroc\Documents\touhou-game\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.811 seconds
+Domain Reload Profiling:
+	ReloadAssembly (811ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (662ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (260ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (220ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (151ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3181 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.6 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3677.
+Total: 3.220600 ms (FindLiveObjects: 0.322100 ms CreateObjectMapping: 0.152100 ms MarkObjects: 2.721700 ms  DeleteObjects: 0.023300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
