@@ -57,6 +57,7 @@
      <Compile Include="Assets\Scripts\ProjectileScripts\PlayerDiagonalLeftProjectile.cs" />
      <Compile Include="Assets\Scripts\EnemyScripts\Interceptor.cs" />
      <Compile Include="Assets\Scripts\Drops\HealthDrop.cs" />
+     <Compile Include="Assets\MainMenu.cs" />
      <Compile Include="Assets\Scripts\ProjectileScripts\PlayerProjectile.cs" />
      <Compile Include="Assets\Scripts\UIScripts\HealthBar_Manager.cs" />
      <Compile Include="Assets\Script\Meteor_behavior.cs" />
