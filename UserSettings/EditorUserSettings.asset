@@ -30,13 +30,13 @@ EditorUserSettings:
       value: 00070c545c505c0d080d087a12740a444e164e7b74702568787e1b32b7e3666c
       flags: 0
     RecentlyUsedScenePath-0:
-      value: 22424703114646680e0b0227036c7a5b31280b292926237e38271427fb
-      flags: 0
-    RecentlyUsedScenePath-1:
       value: 22424703114646680e0b0227036c521f25141d242966333e243d04
       flags: 0
+    RecentlyUsedScenePath-1:
+      value: 22424703114646680e0b0227036c6f02191d1d2938212a353e67083debf42d
+      flags: 0
     RecentlyUsedScenePath-2:
-      value: 22424703114646680e0b0227036c752f031e58392f2d2835633c133af6f9
+      value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
       flags: 0
     RecentlyUsedScenePath-3:
       value: 22424703114646680e0b0227036c6c1313191d7b623d28393930
@@ -45,10 +45,19 @@ EditorUserSettings:
       value: 22424703114646680e0b0227036c6c1313191d78623d28393930
       flags: 0
     RecentlyUsedScenePath-5:
-      value: 22424703114646680e0b0227036c6f02191d1d2938212a353e67083debf42d
+      value: 22424703114646680e0b0227036c7a5b31280b292926237e38271427fb
       flags: 0
     RecentlyUsedScenePath-6:
+      value: 22424703114646680e0b0227036c752f031e58392f2d2835633c133af6f9
+      flags: 0
+    RecentlyUsedScenePath-7:
       value: 22424703114646680e0b0227036c725b335c3f61061735332827187df7ee3d2cfb
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 22424703114646680e0b0227036c73150012146439262f2434
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646680e0b0227036c72111f1958072926337e38271427fb
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
@@ -58,13 +67,9 @@ EditorUserSettings:
   m_VCDebugCmd: 0
   m_VCDebugOut: 0
   m_SemanticMergeMode: 2
-  m_DesiredImportWorkerCount: 2
-  m_StandbyImportWorkerCount: 2
-  m_IdleImportWorkerShutdownDelay: 60000
   m_VCShowFailedCheckout: 1
   m_VCOverwriteFailedCheckoutAssets: 1
   m_VCProjectOverlayIcons: 1
   m_VCHierarchyOverlayIcons: 1
   m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 1
-  m_ArtifactGarbageCollection: 1
