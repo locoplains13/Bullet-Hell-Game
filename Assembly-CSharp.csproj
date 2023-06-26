@@ -94,6 +94,7 @@
      <Compile Include="Assets\Scripts\ProjectileScripts\EProjectileType5.cs" />
      <Compile Include="Assets\Scripts\ProjectileScripts\PlayerDiagonalRightProjectile.cs" />
      <Compile Include="Assets\Scripts\Drops\ShieldDrop.cs" />
+     <Compile Include="Assets\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\EnemyScripts\Explosion.cs" />
      <Compile Include="Assets\Scripts\Boss Scripts\Boss.cs" />
      <Compile Include="Assets\Scripts\UIScripts\Score_Manager.cs" />
